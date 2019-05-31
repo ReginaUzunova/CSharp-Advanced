@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\08. Ranking\bin\Debug\netcoreapp2.0\08.Ranking.deps.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\08. Ranking\bin\Debug\netcoreapp2.0\08.Ranking.runtimeconfig.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\08. Ranking\bin\Debug\netcoreapp2.0\08.Ranking.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\08. Ranking\bin\Debug\netcoreapp2.0\08.Ranking.dll
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\08. Ranking\bin\Debug\netcoreapp2.0\08.Ranking.pdb
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\08. Ranking\obj\Debug\netcoreapp2.0\08.Ranking.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\08. Ranking\obj\Debug\netcoreapp2.0\08.Ranking.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\08. Ranking\obj\Debug\netcoreapp2.0\08.Ranking.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\08. Ranking\obj\Debug\netcoreapp2.0\08.Ranking.AssemblyInfo.cs
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\08. Ranking\obj\Debug\netcoreapp2.0\08.Ranking.dll
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\08. Ranking\obj\Debug\netcoreapp2.0\08.Ranking.pdb

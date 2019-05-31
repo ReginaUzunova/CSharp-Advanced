@@ -1,0 +1,10 @@
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.deps.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.runtimeconfig.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.dll
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\bin\Debug\netcoreapp2.0\05.AppliedArithmetics.pdb
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.AssemblyInfo.cs
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.dll
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\05.AppliedArithmetics\obj\Debug\netcoreapp2.0\05.AppliedArithmetics.pdb

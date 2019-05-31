@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\03.SquaresInMatrix\bin\Debug\netcoreapp2.0\03.SquaresInMatrix.deps.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\03.SquaresInMatrix\bin\Debug\netcoreapp2.0\03.SquaresInMatrix.runtimeconfig.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\03.SquaresInMatrix\bin\Debug\netcoreapp2.0\03.SquaresInMatrix.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\03.SquaresInMatrix\bin\Debug\netcoreapp2.0\03.SquaresInMatrix.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\03.SquaresInMatrix\bin\Debug\netcoreapp2.0\03.SquaresInMatrix.pdb
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\03.SquaresInMatrix\obj\Debug\netcoreapp2.0\03.SquaresInMatrix.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\03.SquaresInMatrix\obj\Debug\netcoreapp2.0\03.SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\03.SquaresInMatrix\obj\Debug\netcoreapp2.0\03.SquaresInMatrix.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\03.SquaresInMatrix\obj\Debug\netcoreapp2.0\03.SquaresInMatrix.AssemblyInfo.cs
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\03.SquaresInMatrix\obj\Debug\netcoreapp2.0\03.SquaresInMatrix.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\03.SquaresInMatrix\obj\Debug\netcoreapp2.0\03.SquaresInMatrix.pdb

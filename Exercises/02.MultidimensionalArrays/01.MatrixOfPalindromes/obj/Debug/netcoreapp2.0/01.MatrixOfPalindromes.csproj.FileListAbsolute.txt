@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\01.MatrixOfPalindromes\bin\Debug\netcoreapp2.0\01.MatrixOfPalindromes.deps.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\01.MatrixOfPalindromes\bin\Debug\netcoreapp2.0\01.MatrixOfPalindromes.runtimeconfig.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\01.MatrixOfPalindromes\bin\Debug\netcoreapp2.0\01.MatrixOfPalindromes.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\01.MatrixOfPalindromes\bin\Debug\netcoreapp2.0\01.MatrixOfPalindromes.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\01.MatrixOfPalindromes\bin\Debug\netcoreapp2.0\01.MatrixOfPalindromes.pdb
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\01.MatrixOfPalindromes\obj\Debug\netcoreapp2.0\01.MatrixOfPalindromes.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\01.MatrixOfPalindromes\obj\Debug\netcoreapp2.0\01.MatrixOfPalindromes.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\01.MatrixOfPalindromes\obj\Debug\netcoreapp2.0\01.MatrixOfPalindromes.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\01.MatrixOfPalindromes\obj\Debug\netcoreapp2.0\01.MatrixOfPalindromes.AssemblyInfo.cs
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\01.MatrixOfPalindromes\obj\Debug\netcoreapp2.0\01.MatrixOfPalindromes.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\01.MatrixOfPalindromes\obj\Debug\netcoreapp2.0\01.MatrixOfPalindromes.pdb

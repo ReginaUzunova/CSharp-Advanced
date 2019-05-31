@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\08.RadioactiveBunnies\bin\Debug\netcoreapp2.0\08.RadioactiveBunnies.deps.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\08.RadioactiveBunnies\bin\Debug\netcoreapp2.0\08.RadioactiveBunnies.runtimeconfig.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\08.RadioactiveBunnies\bin\Debug\netcoreapp2.0\08.RadioactiveBunnies.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\08.RadioactiveBunnies\bin\Debug\netcoreapp2.0\08.RadioactiveBunnies.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\08.RadioactiveBunnies\bin\Debug\netcoreapp2.0\08.RadioactiveBunnies.pdb
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\08.RadioactiveBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveBunnies.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\08.RadioactiveBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveBunnies.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\08.RadioactiveBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveBunnies.AssemblyInfo.cs
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\08.RadioactiveBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveBunnies.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\08.RadioactiveBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveBunnies.pdb
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\08.RadioactiveBunnies\obj\Debug\netcoreapp2.0\08.RadioactiveBunnies.csprojAssemblyReference.cache

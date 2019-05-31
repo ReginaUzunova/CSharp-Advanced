@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\04.MaximalSum\bin\Debug\netcoreapp2.0\04.MaximalSum.deps.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\04.MaximalSum\bin\Debug\netcoreapp2.0\04.MaximalSum.runtimeconfig.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\04.MaximalSum\bin\Debug\netcoreapp2.0\04.MaximalSum.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\04.MaximalSum\bin\Debug\netcoreapp2.0\04.MaximalSum.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\04.MaximalSum\bin\Debug\netcoreapp2.0\04.MaximalSum.pdb
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\04.MaximalSum\obj\Debug\netcoreapp2.0\04.MaximalSum.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\04.MaximalSum\obj\Debug\netcoreapp2.0\04.MaximalSum.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\04.MaximalSum\obj\Debug\netcoreapp2.0\04.MaximalSum.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\04.MaximalSum\obj\Debug\netcoreapp2.0\04.MaximalSum.AssemblyInfo.cs
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\04.MaximalSum\obj\Debug\netcoreapp2.0\04.MaximalSum.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\04.MaximalSum\obj\Debug\netcoreapp2.0\04.MaximalSum.pdb

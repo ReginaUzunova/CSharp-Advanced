@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\08.StackFibonacci\bin\Debug\netcoreapp2.0\08.StackFibonacci.deps.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\08.StackFibonacci\bin\Debug\netcoreapp2.0\08.StackFibonacci.runtimeconfig.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\08.StackFibonacci\bin\Debug\netcoreapp2.0\08.StackFibonacci.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\08.StackFibonacci\bin\Debug\netcoreapp2.0\08.StackFibonacci.dll
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\08.StackFibonacci\bin\Debug\netcoreapp2.0\08.StackFibonacci.pdb
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\08.StackFibonacci\obj\Debug\netcoreapp2.0\08.StackFibonacci.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\08.StackFibonacci\obj\Debug\netcoreapp2.0\08.StackFibonacci.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\08.StackFibonacci\obj\Debug\netcoreapp2.0\08.StackFibonacci.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\08.StackFibonacci\obj\Debug\netcoreapp2.0\08.StackFibonacci.AssemblyInfo.cs
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\08.StackFibonacci\obj\Debug\netcoreapp2.0\08.StackFibonacci.dll
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\08.StackFibonacci\obj\Debug\netcoreapp2.0\08.StackFibonacci.pdb

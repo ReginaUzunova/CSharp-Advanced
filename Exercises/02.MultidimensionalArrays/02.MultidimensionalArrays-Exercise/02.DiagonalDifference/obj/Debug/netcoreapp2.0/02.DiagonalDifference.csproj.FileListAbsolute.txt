@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\02.MultidimensionalArrays-Exercise\02.DiagonalDifference\bin\Debug\netcoreapp2.0\02.DiagonalDifference.deps.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\02.MultidimensionalArrays-Exercise\02.DiagonalDifference\bin\Debug\netcoreapp2.0\02.DiagonalDifference.runtimeconfig.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\02.MultidimensionalArrays-Exercise\02.DiagonalDifference\bin\Debug\netcoreapp2.0\02.DiagonalDifference.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\02.MultidimensionalArrays-Exercise\02.DiagonalDifference\bin\Debug\netcoreapp2.0\02.DiagonalDifference.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\02.MultidimensionalArrays-Exercise\02.DiagonalDifference\bin\Debug\netcoreapp2.0\02.DiagonalDifference.pdb
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\02.MultidimensionalArrays-Exercise\02.DiagonalDifference\obj\Debug\netcoreapp2.0\02.DiagonalDifference.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\02.MultidimensionalArrays-Exercise\02.DiagonalDifference\obj\Debug\netcoreapp2.0\02.DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\02.MultidimensionalArrays-Exercise\02.DiagonalDifference\obj\Debug\netcoreapp2.0\02.DiagonalDifference.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\02.MultidimensionalArrays-Exercise\02.DiagonalDifference\obj\Debug\netcoreapp2.0\02.DiagonalDifference.AssemblyInfo.cs
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\02.MultidimensionalArrays-Exercise\02.DiagonalDifference\obj\Debug\netcoreapp2.0\02.DiagonalDifference.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\02.MultidimensionalArrays-Exercise\02.DiagonalDifference\obj\Debug\netcoreapp2.0\02.DiagonalDifference.pdb

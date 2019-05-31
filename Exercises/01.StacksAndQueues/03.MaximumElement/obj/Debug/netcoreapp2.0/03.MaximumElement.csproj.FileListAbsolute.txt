@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\03.MaximumElement\bin\Debug\netcoreapp2.0\03.MaximumElement.deps.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\03.MaximumElement\bin\Debug\netcoreapp2.0\03.MaximumElement.runtimeconfig.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\03.MaximumElement\bin\Debug\netcoreapp2.0\03.MaximumElement.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\03.MaximumElement\bin\Debug\netcoreapp2.0\03.MaximumElement.dll
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\03.MaximumElement\bin\Debug\netcoreapp2.0\03.MaximumElement.pdb
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.AssemblyInfo.cs
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.dll
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\03.MaximumElement\obj\Debug\netcoreapp2.0\03.MaximumElement.pdb

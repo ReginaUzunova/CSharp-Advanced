@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\05.RubiksMatrix\bin\Debug\netcoreapp2.0\05.RubiksMatrix.deps.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\05.RubiksMatrix\bin\Debug\netcoreapp2.0\05.RubiksMatrix.runtimeconfig.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\05.RubiksMatrix\bin\Debug\netcoreapp2.0\05.RubiksMatrix.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\05.RubiksMatrix\bin\Debug\netcoreapp2.0\05.RubiksMatrix.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\05.RubiksMatrix\bin\Debug\netcoreapp2.0\05.RubiksMatrix.pdb
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\05.RubiksMatrix\obj\Debug\netcoreapp2.0\05.RubiksMatrix.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\05.RubiksMatrix\obj\Debug\netcoreapp2.0\05.RubiksMatrix.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\05.RubiksMatrix\obj\Debug\netcoreapp2.0\05.RubiksMatrix.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\05.RubiksMatrix\obj\Debug\netcoreapp2.0\05.RubiksMatrix.AssemblyInfo.cs
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\05.RubiksMatrix\obj\Debug\netcoreapp2.0\05.RubiksMatrix.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\05.RubiksMatrix\obj\Debug\netcoreapp2.0\05.RubiksMatrix.pdb

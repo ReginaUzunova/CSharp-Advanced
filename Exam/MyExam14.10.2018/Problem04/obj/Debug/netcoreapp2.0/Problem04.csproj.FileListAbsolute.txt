@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\MyExam14.10.2018\Problem04\bin\Debug\netcoreapp2.0\Problem04.deps.json
+D:\C# Advanced - september 2018\MyExam14.10.2018\Problem04\bin\Debug\netcoreapp2.0\Problem04.runtimeconfig.json
+D:\C# Advanced - september 2018\MyExam14.10.2018\Problem04\bin\Debug\netcoreapp2.0\Problem04.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\MyExam14.10.2018\Problem04\bin\Debug\netcoreapp2.0\Problem04.dll
+D:\C# Advanced - september 2018\MyExam14.10.2018\Problem04\bin\Debug\netcoreapp2.0\Problem04.pdb
+D:\C# Advanced - september 2018\MyExam14.10.2018\Problem04\obj\Debug\netcoreapp2.0\Problem04.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\MyExam14.10.2018\Problem04\obj\Debug\netcoreapp2.0\Problem04.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\MyExam14.10.2018\Problem04\obj\Debug\netcoreapp2.0\Problem04.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\MyExam14.10.2018\Problem04\obj\Debug\netcoreapp2.0\Problem04.AssemblyInfo.cs
+D:\C# Advanced - september 2018\MyExam14.10.2018\Problem04\obj\Debug\netcoreapp2.0\Problem04.dll
+D:\C# Advanced - september 2018\MyExam14.10.2018\Problem04\obj\Debug\netcoreapp2.0\Problem04.pdb

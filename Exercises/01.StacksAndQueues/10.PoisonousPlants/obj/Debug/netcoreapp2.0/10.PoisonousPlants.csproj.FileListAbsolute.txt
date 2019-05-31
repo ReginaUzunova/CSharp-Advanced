@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\10.PoisonousPlants\bin\Debug\netcoreapp2.0\10.PoisonousPlants.deps.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\10.PoisonousPlants\bin\Debug\netcoreapp2.0\10.PoisonousPlants.runtimeconfig.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\10.PoisonousPlants\bin\Debug\netcoreapp2.0\10.PoisonousPlants.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\10.PoisonousPlants\bin\Debug\netcoreapp2.0\10.PoisonousPlants.dll
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\10.PoisonousPlants\bin\Debug\netcoreapp2.0\10.PoisonousPlants.pdb
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\10.PoisonousPlants\obj\Debug\netcoreapp2.0\10.PoisonousPlants.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\10.PoisonousPlants\obj\Debug\netcoreapp2.0\10.PoisonousPlants.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\10.PoisonousPlants\obj\Debug\netcoreapp2.0\10.PoisonousPlants.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\10.PoisonousPlants\obj\Debug\netcoreapp2.0\10.PoisonousPlants.AssemblyInfo.cs
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\10.PoisonousPlants\obj\Debug\netcoreapp2.0\10.PoisonousPlants.dll
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\10.PoisonousPlants\obj\Debug\netcoreapp2.0\10.PoisonousPlants.pdb

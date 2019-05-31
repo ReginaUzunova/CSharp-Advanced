@@ -1,0 +1,10 @@
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\03.CustomMinFunction\bin\Debug\netcoreapp2.0\03.CustomMinFunction.deps.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\03.CustomMinFunction\bin\Debug\netcoreapp2.0\03.CustomMinFunction.runtimeconfig.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\03.CustomMinFunction\bin\Debug\netcoreapp2.0\03.CustomMinFunction.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\03.CustomMinFunction\bin\Debug\netcoreapp2.0\03.CustomMinFunction.dll
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\03.CustomMinFunction\bin\Debug\netcoreapp2.0\03.CustomMinFunction.pdb
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\03.CustomMinFunction\obj\Debug\netcoreapp2.0\03.CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\03.CustomMinFunction\obj\Debug\netcoreapp2.0\03.CustomMinFunction.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\03.CustomMinFunction\obj\Debug\netcoreapp2.0\03.CustomMinFunction.AssemblyInfo.cs
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\03.CustomMinFunction\obj\Debug\netcoreapp2.0\03.CustomMinFunction.dll
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\03.CustomMinFunction\obj\Debug\netcoreapp2.0\03.CustomMinFunction.pdb

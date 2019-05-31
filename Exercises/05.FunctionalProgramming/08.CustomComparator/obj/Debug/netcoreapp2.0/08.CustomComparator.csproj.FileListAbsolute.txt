@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.deps.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.runtimeconfig.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.dll
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\08.CustomComparator\bin\Debug\netcoreapp2.0\08.CustomComparator.pdb
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.AssemblyInfo.cs
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.dll
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\08.CustomComparator\obj\Debug\netcoreapp2.0\08.CustomComparator.pdb

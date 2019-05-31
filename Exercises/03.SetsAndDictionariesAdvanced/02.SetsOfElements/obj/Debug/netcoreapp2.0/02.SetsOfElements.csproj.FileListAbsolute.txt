@@ -1,0 +1,10 @@
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp2.0\02.SetsOfElements.deps.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp2.0\02.SetsOfElements.runtimeconfig.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp2.0\02.SetsOfElements.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp2.0\02.SetsOfElements.dll
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\02.SetsOfElements\bin\Debug\netcoreapp2.0\02.SetsOfElements.pdb
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp2.0\02.SetsOfElements.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp2.0\02.SetsOfElements.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp2.0\02.SetsOfElements.AssemblyInfo.cs
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp2.0\02.SetsOfElements.dll
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\02.SetsOfElements\obj\Debug\netcoreapp2.0\02.SetsOfElements.pdb

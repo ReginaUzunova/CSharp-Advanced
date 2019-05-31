@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\06.TargetPractice\bin\Debug\netcoreapp2.0\06.TargetPractice.deps.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\06.TargetPractice\bin\Debug\netcoreapp2.0\06.TargetPractice.runtimeconfig.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\06.TargetPractice\bin\Debug\netcoreapp2.0\06.TargetPractice.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\06.TargetPractice\bin\Debug\netcoreapp2.0\06.TargetPractice.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\06.TargetPractice\bin\Debug\netcoreapp2.0\06.TargetPractice.pdb
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\06.TargetPractice\obj\Debug\netcoreapp2.0\06.TargetPractice.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\06.TargetPractice\obj\Debug\netcoreapp2.0\06.TargetPractice.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\06.TargetPractice\obj\Debug\netcoreapp2.0\06.TargetPractice.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\06.TargetPractice\obj\Debug\netcoreapp2.0\06.TargetPractice.AssemblyInfo.cs
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\06.TargetPractice\obj\Debug\netcoreapp2.0\06.TargetPractice.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\06.TargetPractice\obj\Debug\netcoreapp2.0\06.TargetPractice.pdb

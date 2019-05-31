@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp2.0\01.UniqueUsernames.deps.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp2.0\01.UniqueUsernames.runtimeconfig.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp2.0\01.UniqueUsernames.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp2.0\01.UniqueUsernames.dll
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp2.0\01.UniqueUsernames.pdb
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.0\01.UniqueUsernames.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.0\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.0\01.UniqueUsernames.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.0\01.UniqueUsernames.AssemblyInfo.cs
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.0\01.UniqueUsernames.dll
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.0\01.UniqueUsernames.pdb

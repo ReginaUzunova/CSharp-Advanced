@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\07. LegoBlocks\bin\Debug\netcoreapp2.0\07. LegoBlocks.deps.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\07. LegoBlocks\bin\Debug\netcoreapp2.0\07. LegoBlocks.runtimeconfig.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\07. LegoBlocks\bin\Debug\netcoreapp2.0\07. LegoBlocks.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\07. LegoBlocks\bin\Debug\netcoreapp2.0\07. LegoBlocks.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\07. LegoBlocks\bin\Debug\netcoreapp2.0\07. LegoBlocks.pdb
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\07. LegoBlocks\obj\Debug\netcoreapp2.0\07. LegoBlocks.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\07. LegoBlocks\obj\Debug\netcoreapp2.0\07. LegoBlocks.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\07. LegoBlocks\obj\Debug\netcoreapp2.0\07. LegoBlocks.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\07. LegoBlocks\obj\Debug\netcoreapp2.0\07. LegoBlocks.AssemblyInfo.cs
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\07. LegoBlocks\obj\Debug\netcoreapp2.0\07. LegoBlocks.dll
+D:\C# Advanced - september 2018\02.MultidimensionalArrays-Exercise\07. LegoBlocks\obj\Debug\netcoreapp2.0\07. LegoBlocks.pdb

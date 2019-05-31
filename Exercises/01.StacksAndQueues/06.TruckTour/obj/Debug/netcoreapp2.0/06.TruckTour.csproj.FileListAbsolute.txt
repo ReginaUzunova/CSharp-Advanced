@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\06.TruckTour\bin\Debug\netcoreapp2.0\06.TruckTour.deps.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\06.TruckTour\bin\Debug\netcoreapp2.0\06.TruckTour.runtimeconfig.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\06.TruckTour\bin\Debug\netcoreapp2.0\06.TruckTour.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\06.TruckTour\bin\Debug\netcoreapp2.0\06.TruckTour.dll
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\06.TruckTour\bin\Debug\netcoreapp2.0\06.TruckTour.pdb
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.AssemblyInfo.cs
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.dll
+D:\C# Advanced - september 2018\01.StacksAndQueues-Exercise\06.TruckTour\obj\Debug\netcoreapp2.0\06.TruckTour.pdb

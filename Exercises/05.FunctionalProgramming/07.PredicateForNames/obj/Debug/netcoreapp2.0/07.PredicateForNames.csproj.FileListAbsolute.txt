@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.deps.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.runtimeconfig.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.dll
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\07.PredicateForNames\bin\Debug\netcoreapp2.0\07.PredicateForNames.pdb
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.AssemblyInfo.cs
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.dll
+D:\C# Advanced - september 2018\05.FunctionalProgramming-Exercises\07.PredicateForNames\obj\Debug\netcoreapp2.0\07.PredicateForNames.pdb

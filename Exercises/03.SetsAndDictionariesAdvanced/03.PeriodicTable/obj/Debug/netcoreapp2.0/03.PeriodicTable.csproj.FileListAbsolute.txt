@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp2.0\03.PeriodicTable.deps.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp2.0\03.PeriodicTable.runtimeconfig.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp2.0\03.PeriodicTable.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp2.0\03.PeriodicTable.dll
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\netcoreapp2.0\03.PeriodicTable.pdb
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp2.0\03.PeriodicTable.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp2.0\03.PeriodicTable.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp2.0\03.PeriodicTable.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp2.0\03.PeriodicTable.AssemblyInfo.cs
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp2.0\03.PeriodicTable.dll
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\netcoreapp2.0\03.PeriodicTable.pdb

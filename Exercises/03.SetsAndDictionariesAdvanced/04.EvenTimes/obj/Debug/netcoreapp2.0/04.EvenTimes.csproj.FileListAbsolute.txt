@@ -1,0 +1,11 @@
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp2.0\04.EvenTimes.deps.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp2.0\04.EvenTimes.runtimeconfig.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp2.0\04.EvenTimes.runtimeconfig.dev.json
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp2.0\04.EvenTimes.dll
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\04.EvenTimes\bin\Debug\netcoreapp2.0\04.EvenTimes.pdb
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp2.0\04.EvenTimes.csprojAssemblyReference.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp2.0\04.EvenTimes.csproj.CoreCompileInputs.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp2.0\04.EvenTimes.AssemblyInfoInputs.cache
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp2.0\04.EvenTimes.AssemblyInfo.cs
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp2.0\04.EvenTimes.dll
+D:\C# Advanced - september 2018\03.SetsAndDictionariesAdvanced\04.EvenTimes\obj\Debug\netcoreapp2.0\04.EvenTimes.pdb
